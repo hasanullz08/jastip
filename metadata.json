@@ -1,0 +1,6 @@
+{
+  "name": "Jastip.Mekkah",
+  "description": "Katalog jastip produk pilihan dari Makkah: Parfum Ibraq, Reef Mini, Sajadah, Tumbler, dan Coklat Dubai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
